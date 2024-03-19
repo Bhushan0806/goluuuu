@@ -1,6 +1,11 @@
 touch 
 cat
 go to school
+<<<<<<< HEAD
 init
 home 
 sweet home
+=======
+need work
+rest
+>>>>>>> e7fbf9a89df8aa1a6582eb57d5ec3c83436aee9b
